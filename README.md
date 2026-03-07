@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Top 12% in Achiever in Linked List
-Top 10% in Achiever in Maths
+Top 12% in Achiever in Linked List <br>
+Top 10% in Achiever in Maths <br>
+Top 11.9% in Achiever in Pointer
 
