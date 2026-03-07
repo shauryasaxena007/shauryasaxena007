@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Top 12% in Achiever in Linked List
+Top 10% in Achiever in Maths
+
